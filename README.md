@@ -14,5 +14,5 @@ I am currently studying programming in more depth and of all kinds as it is my a
 ## LINKS
 
 * Instagram:[@ldgiusto](https://www.instagram.com/ldgiusto/) (Just artistic)
-* Linkedin: [leodigiusto](www.linkedin.com/in/leodigiusto).
+* Linkedin: [leodigiusto](https://www.linkedin.com/in/leodigiusto/).
 * Gmail: [ldgiusto@gmail.com](mailto:ldgiusto@gmail.com).
