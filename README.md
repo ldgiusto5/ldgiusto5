@@ -1,8 +1,9 @@
 ### HELLO 👋
 
-My name is Leonardo Di Giusto, I have a degree in Industrial Technologies Engineering specialized in industrial organization, programming, automation and mechatronics.
+My name is Leonardo Di Giusto.
+I have a degree in Industrial Technologies Engineering specialized in industrial organization, programming, automation and mechatronics.
 I am currently studying programming in more depth and of all kinds as it is my ambition.
-
+I made this Github to upload my Malaga 42 projects and other projects and store some other interesting information.
 
 ## SKILLS
 
