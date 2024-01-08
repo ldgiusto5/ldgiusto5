@@ -15,5 +15,5 @@ I made this Github to upload my Malaga 42 projects and other projects and store 
 ### LINKS 🔗💢
 
 * Instagram:[@ldgiusto](https://www.instagram.com/ldgiusto/) (Just artistic)
-* Linkedin: [leodigiusto](https://www.linkedin.com/in/leodigiusto/).
+* Linkedin: [leodigiusto](https://www.linkedin.com/in/ldgiusto/).
 * Gmail: [ldgiusto@gmail.com](mailto:ldgiusto@gmail.com).
